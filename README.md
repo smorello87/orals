@@ -1,4 +1,4 @@
-#Welcome to my Orals
+# Welcome to my Orals
 
 This project collects my reading lists, journals, brainstorms, and tentative schedule as I plan and study for my Orals Examination for April/May 2019. Beyond storing bibliographic information that will be useful for me later, it is also a public-facing record that traces my thinking as it develops toward the disseration. 
 
