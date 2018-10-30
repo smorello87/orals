@@ -65,7 +65,7 @@ After a week of research on my Theories of Perception list, my topics and books:
 * Tegmark, Max. "Life 3.0: Being Human in the Age of Artificial Intelligence". 2017.
 
 ### Visual Studies
-*Hooke, Robert. "Micrographia: or some physiological descriptions of minute bodies made by magnifying glasses, with observations and inquiries thereupon". 1665. 
+* Hooke, Robert. "Micrographia: or some physiological descriptions of minute bodies made by magnifying glasses, with observations and inquiries thereupon". 1665. 
 * Lindberg, David C. "Theories of Vision from Al-kindi to Kepler". 1976.
 * Crary, Jonathan. "Techniques of the Observer: On Vision and Modernity in the 19th Century" 1992.
 * Crary, Jonathan. "Suspensions of Perception: Attention, Spectacle, and Modern Culture". 2001.
@@ -236,3 +236,48 @@ I’m including Caitlin Fisher’s *These Waves of Girls* because I love it and 
 This list is in many ways the one I’m most excited about. It’s foundational. The ideas are the reason that I’ve wanted to study literature at the PhD level. 
 
 Books like Galloway’s *Protocol* or Ramsay’s *Reading Machines* excite me like no other. There is so much potential to be had. A whole terrain of feeling that underlies the way we use technology and the books that we read. My dissertation aims to uncover these embedded feelings. Not that they are hiding (*not* a hermeneutics of suspicion) but that the are there, waiting to be felt, if only one can approach them from a position of ignorance, defamiliarization, speculation. A hermeneutics of wonder… A speculative method.
+
+## October 20
+
+It's been a while. I've been anxious about my Queer Modernisms list. I feel that I really ought to be developing a focus at this point. From what I've been hearing lately, and a perspective that I'm trying to adopt, is that I just need to finish the damn thing. I need to really start conceiving of my dissertation not as an impending revelation but as an imminent project. I need to pursue what I know I already like, what is within my reach.
+
+What do I already like? I like notebooks, journals, histories of composition, speculation, the potentials of form. 
+
+*Histories of composition* (Now I will revise my QM list to reflect this focus.)
+
+Joseph Allen Boone's *Libidinal Currents* --- the affect of close reading.
+Csvetkovitch *An Archive of Feelings* --- "acting out" as an archive, as a public act.
+
+Feelings of impending rejection from my desired committee members. I feel fundamentally lost. But also realizing that I'm so much stronger, smarter, have gone futher than I give myself credit for. 
+
+What is within my reach? This interest in journals, in composing. I'm interested in the first draft. The pen against paper, momentum, the errata of daily life, the sunlight against paper. In archives, histories, real stories. 
+
+Question --- in what ways do technologies of digitization and mediation facilitate new interpretations/readings of this kind of work?
+
+I've just removed many works from my Theory, Protomodernism, and High Modernism topcs. Removing novels by James, Cther, which I either haven't read or don't sense that they will be terribly interesting to me. That is to say that I am focusing. Narrowing down. Aiming for things already within my reach; and it feels good.
+
+## October 24 
+
+Again revisiting QM list. The revelation of doing *journals* as a focus still has an encouraging effect on me. (though Wayne still hasn't written back, which keeps me anxious and full of dread)
+
+I'm revising my High Modernist Fiction list to "Modernist Autobiography". It seems to me that many of these works are actually autobiographical, to a certain extent:
+* *Orlando*
+* *The Autobiography of Alice B Toklas*
+* Colette
+* *Nightwood*
+* Isherwood
+
+I mean that there's a thin line between reality and fiction. That these stories draw from life. Others in this list which do not fit so nicely:
+* *Jacob's Room*
+* *Well of Loneliness*
+* K. Mansfield's short stories
+
+So what to do about this? Keep them as anomalies? Or maybe... and this excites me... after I'm done delineating all the autobiographical stuff I'll be left with all of these kind of unbelievable and fantastical novels that make up their own genre. The outcasts will form their own classification, their own community, in other words. 
+
+This idea of *Modernist Autobiography* comes to me from Georgia Johnson's *Formation of Modernist lesbian Autobiography*, which has a helpful introduction. The topic of autobiography is paramount. Because it brings into question the function of *identity* --writing subjects in relation to the intended audience---something that is always interesting to me. It enhances the role of the speaking "I". The difficulty of categorizing, encoding queer identities. 
+
+Question---*What hapens when you combine the encoding of queer identity and nonverbal annotion or engaging emotion/affect of the reader?*
+* how does affect relate to identity?
+* how does what I feel when I read relate to the identities embedded in the text?
+
+In the ["Torment of Queer Literature"](https://therumpus.net/2018/06/the-torment-of-queer-literature/), the writer talks about identification through negative emotions---shame, terror, panic, stigma. The fear of reading yourself into the characters. The isolation of doing so. The fear when you encounter a mirror of your pain and suffering. The fear of being represented and not represented. The fear of finding yourself on the page as a marginalized subject.
