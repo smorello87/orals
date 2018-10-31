@@ -281,3 +281,41 @@ Question---*What hapens when you combine the encoding of queer identity and nonv
 * how does what I feel when I read relate to the identities embedded in the text?
 
 In the ["Torment of Queer Literature"](https://therumpus.net/2018/06/the-torment-of-queer-literature/), the writer talks about identification through negative emotions---shame, terror, panic, stigma. The fear of reading yourself into the characters. The isolation of doing so. The fear when you encounter a mirror of your pain and suffering. The fear of being represented and not represented. The fear of finding yourself on the page as a marginalized subject.
+
+## October 30
+
+Asking you to be part of my committee
+
+“Queer Modernisms” or “queer modernisms and affects”. Contains mostly modernist fiction and journals, postmodern memoir and experimental writing, with some theory on sexuality/race, gender, queer studies.
+
+Topics include:
+Theories of Gender, Sexuality, and Race 
+Queer Affects
+Protomodernism (Wilde, Walter Pater, and Henry James)
+Modernist Fiction/Life Writing (Stein, Woolf, Barnes, Isherwood)
+Postmodern Memoir (Barthes, Baldwin, Delany, Myles, Bechde)
+Experimental Writing / Journals (Mansfield and Woolf… and more)
+
+Methodology is digital (this is my main field of study---digital humanities). I’m interested in the digital insofar as it facilitates new ways of reading, new hermeneutical models based on speculation and play, (possible through computer) but also in difficulty of using technology (which is dominated by logics, computation, abstractions) to engage the complexities and ambiguities of literature.
+* Encoding (“tagging” different elements of a text like identity, affect). The difficulty of categorizing or “encoding” queer IDs.
+* Textual analysis (using computation to mine for affect / sentiment analysis) Also known as “distant reading”. 
+* Processes of digitization and how new formats change the way we read, attuned to previously overlooked qualities about the text.  
+* Pedagogical aspect --- teaching close reading --- annotation tools. How can digital annotation engage nonverbal responses to text? What is the role of the nonverbal in learning to close-read?
+
+My questions:
+* In what ways do technologies of digitization and mediation facilitate new interpretations or readings?
+* What digital tools or methods engage the complexities of queer affect and identity? 
+* How can digital methods engage nonverbal or affective responses to reading? (this is a pedagogical question)
+
+Wayne's Comments:
+* When considering the “Theories of Gender/Sex/Race” and “Queer Affects” list, don’t think too much in binary terms. Don’t have this stark division in my mind, because they aren’t as divided. 
+* Restore Adrienne Rich’s two essays from “Rejects”.
+* Maybe move Bersani… 
+* Some of the lists look a bit short. Consider “Protomodernism”, where you should add Michael Field. 
+* Some of the lists can be combined. Like Postmodern Memoir and Experimental Writing. Combine those into “Autobiographical and Experimental Writing”
+* Avoid problematic binaries.
+* What would be the effect of keeping the “Rejects”, as a kind of silent chorus? 
+* Structured reading time. 
+* Learning to speak with poise, the complexity about things you are reading. Emphasize the positive parts of this process, not the stress. 
+* Jason Tougaw’s article about Pedagogy in Wayne’s class. 
+* The last week of classes is an ideal time---definitely before the last day of class. 
