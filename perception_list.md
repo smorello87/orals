@@ -8,7 +8,7 @@
 * Wilson, Elizabeth. *Affect and Artificial Intelligence*, 2010.
 * Haraway, Donna. *Staying with the Trouble: Making Kin in the Chthulucene*, 2016.
 
-    ### Posthuman Body Rejects: 
+### Posthuman Body Rejects: 
     * Wajcman, Judy. *TechnoFeminism*, 2004.
     * Carson, Rachel. *Silent Spring*, 1962?.
 
@@ -21,7 +21,7 @@
 * Crary, Jonathan. *Suspensions of Perception: Attention, Spectacle, and Modern Culture*, 2001.
 * Mitchell, WJT. *What Do Pictures Want?* 2004.
 
-    ### Vision Rejects: 
+ ### Vision Rejects: 
     * Drucker, Johanna. *Graphesis: Visual Forms of Knowledge Production*, 2014.
     * Crary, Jonathan. *Techniques of the Observer: On Vision and Modernity in the 19th Century*, 1992.
 
@@ -54,7 +54,7 @@
 * Shaviro, Steven. *Without Criteria: Kant, Whitehead, Deleuze, and Aesthetics*, 2009.
 * Shaviro, Steven. *The Universe of Things: On Speculative Realism*, 2014.
 
-    ### Speculative Realism Rejects:
+### Speculative Realism Rejects:
     * Pierce, Charles Sanders. "Man's Glassy Essence" & "Some Consequences of Four Incapacities" & "A Guess at the Riddle". circa 1880-90s.
     * Meillassoux, Quentin. *After Finitude: An Essay on the Necessity of Contingency*, 2010.
     * Harman, Graham. *The Quadruple Object*, 2011.
