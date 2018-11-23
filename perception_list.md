@@ -1,6 +1,6 @@
 *Below is a brainstorm of potential works for my list, "Theories of Consciousness and Perception", organized by various subtopics. The final list will be cut to around 25 works.*
 
-## The Posthuman Body
+# The Posthuman Body
 
 * Haraway, Donna. "A Cyborg Manifesto", in *Simians, Cyborgs and Women: The Reinvention of Nature* 1990.
 * Hayles, Katherine. *How We Became Posthuman: Virtual Bodies in Cybernetics, Literature, and Informatics*, 2000.
@@ -9,11 +9,11 @@
 * Haraway, Donna. *Staying with the Trouble: Making Kin in the Chthulucene*, 2016.
 
 ### Posthuman Body Rejects: 
-    * Wajcman, Judy. *TechnoFeminism*, 2004.
-    * Carson, Rachel. *Silent Spring*, 1962?.
+* Wajcman, Judy. *TechnoFeminism*, 2004.
+* Carson, Rachel. *Silent Spring*, 1962?.
 
 
-## Vision
+# Vision
 
 * Newton, Isaac. *Optiks: Opticks: or, A Treatise of the Reflexions, Refractions, Inflexions and Colours of Light*, 1704.
 * Goethe, Johann Wolfgang. *Theory of Colours*, 1810.
@@ -21,11 +21,11 @@
 * Crary, Jonathan. *Suspensions of Perception: Attention, Spectacle, and Modern Culture*, 2001.
 * Mitchell, WJT. *What Do Pictures Want?* 2004.
 
- ### Vision Rejects: 
-    * Drucker, Johanna. *Graphesis: Visual Forms of Knowledge Production*, 2014.
-    * Crary, Jonathan. *Techniques of the Observer: On Vision and Modernity in the 19th Century*, 1992.
+### Vision Rejects: 
+* Drucker, Johanna. *Graphesis: Visual Forms of Knowledge Production*, 2014.
+* Crary, Jonathan. *Techniques of the Observer: On Vision and Modernity in the 19th Century*, 1992.
 
-## Cognition and Emotion
+# Cognition and Emotion
 
 * Turing, Alan. "Computing Machinery and Intelligence". 1950.
 * Nagel, Thomas. "What is it like to be a bat?" 1974.
@@ -36,7 +36,7 @@
 * Dehaene, Stanislas. *Consciousness and the Brain: Deciphering How the Brain Codes Our Thoughts*, 2014.
 * Hayles, Katherine N. *Cognitive  Unconscious*, 2017.
 
-## Philosophies of Mind and Intelligence
+# Philosophies of Mind and Intelligence
 
 * Plato. *The Theatatus*, ~400 BC.
 * Aristotle. *De Anima*, ~350 BC. 
@@ -47,7 +47,7 @@
 * James, William. *Principles of Psychology*, 1890.
 * Merleau-Ponty, Maurice. *The Phenomenology of Perception*, 1945.
 
-## Speculative Realism
+# Speculative Realism
 * Whitehead, Alfred North. *Modes of Thought*, 1938.
 * Whitehead, Alfred North. *Process and Reality: Gifford Lectures Delivered in the University of Edinburgh During the Session 1927-28*, 1979
 * Stengers, Isabelle. *Thinking With Whitehead*, 2011.
@@ -55,6 +55,6 @@
 * Shaviro, Steven. *The Universe of Things: On Speculative Realism*, 2014.
 
 ### Speculative Realism Rejects:
-    * Pierce, Charles Sanders. "Man's Glassy Essence" & "Some Consequences of Four Incapacities" & "A Guess at the Riddle". circa 1880-90s.
-    * Meillassoux, Quentin. *After Finitude: An Essay on the Necessity of Contingency*, 2010.
-    * Harman, Graham. *The Quadruple Object*, 2011.
+* Pierce, Charles Sanders. "Man's Glassy Essence" & "Some Consequences of Four Incapacities" & "A Guess at the Riddle". circa 1880-90s.
+* Meillassoux, Quentin. *After Finitude: An Essay on the Necessity of Contingency*, 2010.
+* Harman, Graham. *The Quadruple Object*, 2011.
