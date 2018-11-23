@@ -319,3 +319,6 @@ Wayne's Comments:
 * Learning to speak with poise, the complexity about things you are reading. Emphasize the positive parts of this process, not the stress. 
 * Jason Tougaw’s article about Pedagogy in Wayne’s class. 
 * The last week of classes is an ideal time---definitely before the last day of class. 
+
+***
+coming at this a few hours later... I had a revelation on the subway. What if I took seriously Wayne's comments about the "Rejects" acting as a chorus (that is, as actors who do not affect the primary action). What if I re-consider the way that I'm organizing this list, with groupings that are *preformative* instead of *descriptive*? To run with the example of Greek plays, I could have a group of texts that form a "prologue", others that represent various "episodes".... or to follow Shakespearean structure, the five parts from "exposition" to "denouement". 
