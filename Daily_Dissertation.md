@@ -1,5 +1,99 @@
 # Daily Dissertation
 
+## November 30
+
+Queer Modernism list:
+
+Need to cut--Theories of Gender, Sexuality and Race AND Queer Affects subtopcs to 10 books maximum, and combine them into one master queer theory subtopic. The plus and minuses indicate whether the work has been added or cut from my list. 
+
+Foundations--texts about women's silence/repression in writing?
+
+\+ "Laugh of the Medusa" \
+\- *Disidentifications* \
+\- *Gender Trouble* (keeping *Bodies that Matter*) 
+
+Prologue--*affects*?
+
+\- Boone, *Libidinal Currents* \
+\- Sedgwick, *Touching Feeling* (but keeping chapter on "Shame") \
+\- Ahmed, *Queer Phenomenology* & *Promise of Happiness* \
+\- Berlant & Edelman, "Sex, or the Unbearable" 
+
+I really don't feel great about a lot of these cuts. There are things that I want to read on here. But I need to remember that I cannot read everything, shouldn't try to read everything, but only to read things that will be relevant to MY project, and cannot be comprehensive. So I've chosen to keep works that have most directly to do with the themes/issues that my project will treat. **What are the major affects related to queerness? What about writing or reading sexuality and gender?** The texts must be able to speak to these questions. 
+
+The final list for Queer Modernisms:
+
+### Foundations
+- Rich, Adrienne. "When We Dead Awaken: Writing as Revision", 1979.
+- Cixous, Helen. "The Laugh of the Medusa", 1975.
+- Foucault. *History of Sexuality Vol. 1*, 1984.
+- Sedgwick, Eve Kosofsky. *The Epistemology of the Closet*, 1990.
+- Butler, Judith. *Bodies That Matter*, 1993. 
+
+### Affects
+- Bersani, Leo. “Is the Rectum a Grave?” 1987.
+- Cvetkovich, Ann. *An Archive of Feelings: Trauma, Sexuality, and Lesbian Public Cultures*, 2003.
+- Sedgwick, Eve Kosofsky. Chapter on "Shame" from *Touching Feeling: Affect, Pedagogy, Performativity*, 2003.
+- Muñoz, José. *Cruising Utopia: The Then and There of Queer Futurity*, 2009.
+- Love, Heather. *Feeling Backward: Loss and the Politics of Queer History*, 2009.
+
+### Protomodernist
+- Wilde, Oscar. *The Picture of Dorian Gray*, 1890 and 1891, and MS.
+- Pater, Michael. *Studies of the History of the Renaissance*.
+- Field, Michael. *Sight and Song*, 1892.
+
+### Modernist Auto/biography and Journals
+- Woolf, Virginia. *Orlando*, 1928.
+- Woolf, Virginia. *A Writer's Diary*, 1953.
+- Woolf, Virginia. "A Sketch of the Past", 1939.
+- Stein, Gertrude. "Q.E.D.", 1903 and *Three Lives*, 1909. 
+- Barnes, Djuna. *Nightwood*, 1936.
+- Mansfield, Katherine and Margaret Scott. *The Katherine Mansfield Notebooks*, 2002.
+
+### Postmodern Memoir-esque
+
+- Baldwin, James. *Giovanni's Room*, 1956.
+- Anzaldua, Gloria. *Borderlands/La Frontera: The New Mestiza*, 1987.
+- Myles, Eileen. *Chelsea Girls*, 1994.
+- Barthes, Roland. *R.B.*, 1975.
+- Bechdel, Alison. *Are You My Mother? A Comic Drama*, 2012.
+- Rosenberg, Jordy. *Confessions of the Fox*, 2018.
+
+## November 28
+
+Spent some time today cutting down the literary readings for Queer Modernisms: *protomodernism*, *modernist auto/biography*, and *postmodern memoir*. 
+
+The things I CUT:
+- Colette, *Pure and the Impure*
+- Feinberg, *Stone Butch Blues*
+- Delany, *Motion of Light in Water*
+- Wittig, *Les Guerilleres*
+- Woolf, short stories (from *Monday or Tuesday)
+- Stein, *Autobiography of Alice* & *Tender Buttons*
+- Nelson, *Bluets* & *Argonauts*
+
+The things I ADDED:
+- Stein, *Q.E.D.* & *Three Lives*
+- Woolf, "Sketch of the Past"
+- Rosenberg, *Confessions of the Fox*
+
+Things that SURVIVED:
+- Myles, *Chelsea Girls*
+- Baldwin, *Giovanni's Room*
+- Mansfield, *Complete Journals*, ed. Margaret Scott
+
+A few notes on some of these decisions:
+
+Concerning Mansfield---I was going to take her out completely (she's about 700 pages long!), but the journal has been such a delight to read (though a slog to carry around). And she's clearly some kind of queer---speaking about women in passionate, consicously sexual terms. There's a vitality to her language (which I've mentioned about her letters(!) and short stories)---a darkness mixed with lightthat I find irresistible. Able to read for 700 pages. Then there's the compelling voice of the editor (transcriber!), Margaret Scott, in the footnotes. She revises John Middleton Murray's previous editorial work (overwriting and censorsop), and her voice comes through in a lovely soft way. 
+
+Stone Butch Blues---This one was difficult to drop. The fear of identification/disidentification---the tension between them---runs strong here. I know that personally this is a book I *have to read*, but intellectually and aesthetically it's not as compelling to me as others which I'd rather keep on my list. It made me cry. It's too raw, not particularly literary. "My stone self". The most unmediated narrative on the list. Is this interesting? Art?
+
+Giovanni's Room---beautifully written first page. Therefore stays.
+
+After cutting down these texts, some things become quite clear. My project is really invested in editing and editorial practices. The footnotes are important. The mediations and fictionalities are important. This is why Woolf's short stories have to go and "Sketch of the Past" takes their place. Why *Stone Butch Blues* has to go, and *Chelsea Girls* must stay. Why Mansfield and Rosenberg are on there, too. (Still unsure about Maggie Nelson, TBH. I do love *Bluets*)
+
+Significantly, this means that I can cut down my secondary reaings to fit this more streamlined focus. 
+
 ## November 7
 
 Today I spent a couple of hours cutting down my "Theories of Perception + Mind" list. Got rid of a lot of things that I either didn't want to read or seemed unnecessary. These past couple of weeks have really made me realize that (1) I'm dealing with too many texts and ideas and (2) I already have something solid---a question---that I want to pursue so I don't need to plan for reading to search for a question. 
@@ -29,13 +123,18 @@ On the bus ride home today I also came to another decision about scheduling and 
 2. There will be 5 subtopics with an average of 5 books each or 6 subtopics with an average of 4 books each (one subtopic containing 5 books).
 3. I will allow myself (assuming the exam is on May 15) 4.5 months (18 weeks) to study. January 7 (monday) to May 15.
 4. Given these limits, I will allow 5 books (or one subtopic) per week. One book for each week way. On the weekends I will synthesize the most important points, keeping it short and to the point. One paragraph per book with notes on moments of interest. 
-5. Therefore, the schedule allows 5 weeks for each list, and runs accordingly: Jan 7-Feb 10 (Digital list); Feb 11-March 17 (Perception/Consciousness); March 18-April 19 (Queen Mod); April 22-May 14 (Review); May 15 exam.
+5. Therefore, the schedule allows 5 weeks for each list, and runs accordingly: 
+    - Jan 7-Feb 10 (Digital list); 
+    - Feb 11-March 17 (Perception/Consciousness); 
+    - March 18-April 19 (Queer Mod); 
+    - April 22-May 14 (Review); 
+    - May 15: exam.
 
 I think this pacing will give me the structure and space that I need in order to do what is necessary. 
 
 ## October 30: meeting with Wayne
 
-Asking you to be part of my committee
+*Asking you to be part of my committee...*
 
 “Queer Modernisms” or “queer modernisms and affects”. Contains mostly modernist fiction and journals, postmodern memoir and experimental writing, with some theory on sexuality/race, gender, queer studies.
 
@@ -76,7 +175,7 @@ coming at this a few hours later... I had a revelation on the subway. What if I 
 
 ## October 24
 
-Again revisiting QM list. The revelation of doing journals as a focus still has an encouraging effect on me. (though Wayne still hasn't written back, which keeps me anxious)
+Again revisiting QM list. The revelation of doing journals as a focus still has an encouraging effect on me. (though Wayne still hasn't written back, which keeps me anxious...).
 
 I'm revising my High Modernist Fiction list to "Modernist Autobiography". It seems to me that many of these works are actually autobiographical, to a certain extent:
 - Orlando
@@ -85,7 +184,7 @@ I'm revising my High Modernist Fiction list to "Modernist Autobiography". It see
 - Nightwood
 - Isherwood
 
-I mean that there's a thin line between reality and fiction. That these stories draw from life. Others in this list which do not fit so nicely:
+There's a thin line between reality and fiction. That these stories draw from life. Others in this list which do not fit so nicely:
 - Jacob's Room
 - Well of Loneliness
 - K. Mansfield's short stories
