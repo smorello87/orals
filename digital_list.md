@@ -1,4 +1,4 @@
-*Below is a brainstorm of potential works for my list, "Digital Methods and Textuality", organized by various subtopics. The final list will be cut to around 35 works.*
+*Below is a brainstorm of potential works for my list, "Digital Methods and Textuality", organized by various subtopics. The final list will be cut to around 25 works.*
 
 ## Methods
 * Graff, Gerald. *Professing Literature: An Institutional History*, 1989.
