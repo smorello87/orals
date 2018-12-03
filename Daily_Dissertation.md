@@ -4,7 +4,7 @@
 
 Queer Modernism list:
 
-Need to cut--Theories of Gender, Sexuality and Race AND Queer Affects subtopcs to 10 books maximum, and combine them into one master queer theory subtopic. The plus and minuses indicate whether the work has been added or cut from my list. 
+Need to cut--Theories of Gender, Sexuality and Race AND Queer Affects subtopics to 10 books maximum, and combine them into one master queer theory subtopic. The plus and minuses indicate whether the work has been added or cut from my list. 
 
 Foundations--texts about women's silence/repression in writing?
 
@@ -19,7 +19,7 @@ Prologue--*affects*?
 \- Ahmed, *Queer Phenomenology* & *Promise of Happiness* \
 \- Berlant & Edelman, "Sex, or the Unbearable" 
 
-I really don't feel great about a lot of these cuts. There are things that I want to read on here. But I need to remember that I cannot read everything, shouldn't try to read everything, but only to read things that will be relevant to MY project, and cannot be comprehensive. So I've chosen to keep works that have most directly to do with the themes/issues that my project will treat. **What are the major affects related to queerness? What about writing or reading sexuality and gender?** The texts must be able to speak to these questions. 
+I really don't feel great about a lot of these cuts. There are things that I want to read on here. But I need to remember that I cannot read everything, shouldn't try to read everything, but only to read things that will be relevant to MY project, which cannot be comprehensive. So I've chosen to keep works that have most directly to do with the themes/issues that my project will treat. **What are the major affects related to queerness? What about writing or reading sexuality and gender?** The texts must be able to speak to these questions. 
 
 The final list for Queer Modernisms:
 
@@ -37,7 +37,7 @@ The final list for Queer Modernisms:
 - Muñoz, José. *Cruising Utopia: The Then and There of Queer Futurity*, 2009.
 - Love, Heather. *Feeling Backward: Loss and the Politics of Queer History*, 2009.
 
-### Protomodernist
+### Protomodernist Aestheticizations
 - Wilde, Oscar. *The Picture of Dorian Gray*, 1890 and 1891, and MS.
 - Pater, Michael. *Studies of the History of the Renaissance*.
 - Field, Michael. *Sight and Song*, 1892.
