@@ -1,6 +1,5 @@
 *Below is a brainstorm of potential works for my list, "Queer Modernisms and Affects", organized by various subtopics. The final list will be cut to around 25 works.*
 
-
 ### Foundations
 - Rich, Adrienne. "When We Dead Awaken: Writing as Revision", 1979.
 - Cixous, Helen. "The Laugh of the Medusa", 1975.
