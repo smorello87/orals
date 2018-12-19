@@ -1,32 +1,16 @@
 *Below is a brainstorm of potential works for my list, "Theories of Consciousness and Perception", organized by various subtopics. The final list will be cut to around 25 works.*
 
-# The Posthuman Body
-
+## Posthumanism (and bodies)
 * Haraway, Donna. "A Cyborg Manifesto", in *Simians, Cyborgs and Women: The Reinvention of Nature* 1990.
 * Hayles, Katherine. *How We Became Posthuman: Virtual Bodies in Cybernetics, Literature, and Informatics*, 2000.
-* Massumi, Brian. *Parables for the Virtual*, 2002.
 * Wilson, Elizabeth. *Affect and Artificial Intelligence*, 2010.
-* Haraway, Donna. *Staying with the Trouble: Making Kin in the Chthulucene*, 2016.
 
-### Posthuman Body Rejects: 
-* Wajcman, Judy. *TechnoFeminism*, 2004.
-* Carson, Rachel. *Silent Spring*, 1962?.
-
-
-# Vision
-
+## Colors (and affects)
 * Newton, Isaac. *Optiks: Opticks: or, A Treatise of the Reflexions, Refractions, Inflexions and Colours of Light*, 1704.
 * Goethe, Johann Wolfgang. *Theory of Colours*, 1810.
 * Wittgenstein, Ludwig. *Remarks on Colour*, 1950.
-* Crary, Jonathan. *Suspensions of Perception: Attention, Spectacle, and Modern Culture*, 2001.
-* Mitchell, WJT. *What Do Pictures Want?* 2004.
 
-### Vision Rejects: 
-* Drucker, Johanna. *Graphesis: Visual Forms of Knowledge Production*, 2014.
-* Crary, Jonathan. *Techniques of the Observer: On Vision and Modernity in the 19th Century*, 1992.
-
-# Cognition and Emotion
-
+## Cognition (and computation)
 * Turing, Alan. "Computing Machinery and Intelligence". 1950.
 * Nagel, Thomas. "What is it like to be a bat?" 1974.
 * Searle, John. "Can Computers Think?" 1980.
@@ -36,11 +20,7 @@
 * Dehaene, Stanislas. *Consciousness and the Brain: Deciphering How the Brain Codes Our Thoughts*, 2014.
 * Hayles, Katherine N. *Cognitive  Unconscious*, 2017.
 
-# Philosophies of Mind and Intelligence
-
-* Plato. *The Theatatus*, ~400 BC.
-* Aristotle. *De Anima*, ~350 BC. 
-* Descartes, René. *Discourse on Method and Meditations on First Philosophy*, 1637.
+## Empiricism
 * Hume, David. *An Enquiry Concerning Human Understanding*, 1748.
 * Bergson, Henri. *Matter and Memory*, 1896.
 * William James. “Does ‘Consciousness’ Exist?”; “Concerning Fechner”; “The Sentiment of Rationality,” “The Place of Affectional Facts in a World of Pure Experience”
@@ -54,7 +34,18 @@
 * Shaviro, Steven. *Without Criteria: Kant, Whitehead, Deleuze, and Aesthetics*, 2009.
 * Shaviro, Steven. *The Universe of Things: On Speculative Realism*, 2014.
 
-### Speculative Realism Rejects:
+### Rejects:
+* Crary, Jonathan. *Suspensions of Perception: Attention, Spectacle, and Modern Culture*, 2001.
+* Crary, Jonathan. *Techniques of the Observer: On Vision and Modernity in the 19th Century*, 1992.
+* Mitchell, WJT. *What Do Pictures Want?* 2004.
 * Pierce, Charles Sanders. "Man's Glassy Essence" & "Some Consequences of Four Incapacities" & "A Guess at the Riddle". circa 1880-90s.
 * Meillassoux, Quentin. *After Finitude: An Essay on the Necessity of Contingency*, 2010.
 * Harman, Graham. *The Quadruple Object*, 2011.
+* Wajcman, Judy. *TechnoFeminism*, 2004.
+* Carson, Rachel. *Silent Spring*, 1962?.
+* Drucker, Johanna. *Graphesis: Visual Forms of Knowledge Production*, 2014.
+* Plato. *The Theatatus*, ~400 BC.
+* Aristotle. *De Anima*, ~350 BC. 
+* Descartes, René. *Discourse on Method and Meditations on First Philosophy*, 1637.
+* Massumi, Brian. *Parables for the Virtual*, 2002.
+* Haraway, Donna. *Staying with the Trouble: Making Kin in the Chthulucene*, 2016.
