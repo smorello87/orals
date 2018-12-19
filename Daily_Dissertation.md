@@ -1,5 +1,44 @@
 # Daily Dissertation
 
+## December 8
+
+Earlier this week, I met with Matt to talk about my digital list. The meeting went very well--he was totally supportive and encouraging of my choices so far, and seemed to appreciate what I could explain about my project. 
+
+He helped me to cut out some works, to add a few more, and to consider strategies for approaching the exam. His specific suggestions include
+- Despite one of my research questions being about gender/queerness, this list is really missing texts on those topics. Some suggestions that address this
+    * consider *Data Feminism* (draft published online) by Lauren Klein. 
+    * consider article by Laura Mandell in forthcoming *Debates*, about TEI & binaries.
+    * consider either "Queer OS" article by Jacob Gaboury (in 2016 *Debates*), or the more extensive chapter in Routledge's *Media Studies* collection, edited by Sayers. 
+- In my **Methods** subtopic, consider swapping Drucker's book for the essay, "Humanities Approaches to Graphical Display".
+    * Whatever additional gender/queer focused text should probably go in this subtopic as well. 
+- In **Networks,** take out *The Exploit* (I already have two other Galloways).
+    * move *Protocol* from **Language** to **Networks**. 
+- In **Editing, Editions, and Archives**, add McKenzie, D.F., *Bibliography and the Sociology of Texts,* 1999.
+- In **Science/Hyper -Fiction**, maybe remove one of the novels. 
+- Consider working with Karl Steel, who does Speculative Philosophy and Posthumanism. 
+- You should approach these texts as ideas that you can push off of---using one to talk about the other. 
+- Think about what questions you're trying to answer with each subtopic. Try to narrow the interest and curiosity down.
+
+***
+
+These suggestions have prompted me down a slightly distracted two days of reading... after which I have made the following decisions:
+
+First, from my **Media** section, I took out *Paper Knowledges* by Gitelman, which I feel a bit guilty about (it seems a fascinating book), but it doesn't directly address my interests in media about *computation* and transcriptions into digital forms... as well as storage and memory and futurity. The remaining books on the list are more important. 
+
+I added a different article by Jacob Gaboury (which he kindly alerted me to in an email), published recently in  *Women and Performance*, to my **Language** section.
+
+Finally, after reading through Laura Mandell's article, which was good, I decided it was too much about big data for my focus. So I will add (instead) an article by Pamela Caughie (et al) on the difficulty of encoding gender ontologies. This will also replace Kenneth Goldsmith's book on *Uncreative Writing*, in my **Editing** subtopic.
+
+## December 3
+
+So now I turn to my digital list--to Matt's question--what do I want to get out of this list?
+
+1) Technology and gender: how technology "reads" or "encodes" gender. How the binairies and abstractions of computation struggle or fail to register the complexity of embodied human experience.
+
+2) The discipline/methods/hermeneutics: how digital methods encourage play and speculation, the role of subjectivity built into criticism that cannot be "corrected" by computation ("distant" reading is just like close reading). Computation and creativity.
+
+3) Technology and the nonverbal/affective: how can technology/digital tools engage nonverbal/preverbal/affective qualities or responses about literature; more pointedly, how do digitization/methods engage *embodied* reading practices?
+
 ## November 30
 
 Queer Modernism list:
