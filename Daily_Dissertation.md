@@ -1,5 +1,47 @@
 # Daily Dissertation
 
+
+## December 19
+
+I need to update on my meeting with Wayne last week, but that will have to wait for another day. First, I'm going through my Perception list one more time before my meeting with Jason tomorrow. Over the past two days, I've made some dramatic (necessary?) changes to this list. I cut out a whole lot of works and consolidated subtopics. The survivors are:
+- Posthumanism & Bodies: Haraway, Hayles, Elizabeth Wilson & Richard Powers
+- Cognition & Computation: Various 20thC essays, Varela, Damasio, Chalmers, Dahaene, Hayles & Alain Robbe-Grillet or Jason Tougaw
+- Colors & Emotions: Newton, Goethe, Wittgenstein & & Julie Delport
+- Empiricism: Hume, Bergson, W. James, Merleau-Ponty & Moretti and Boone
+- Speculative Realism: Whitehead, Stengers, Shaviro & Santiago Ramon y Cajal
+
+The total comes out to just under 30. This seems about right. There are other concerns, things I may want to add (or swap in):
+- a feminist perspective---most of these works (excepting the Posthuman section) are written by men, and gender perhaps ought to factor into the Cognition, Empiricism, and Speculative Realism sections. 
+- a list of "greatest works" of literary criticism that engages with cognitive studies/themes/models. They might be proto-cognitive---not directly engaging or empoying cognition, but evocative or resonant of it. Specifically, I'm thinking of work by Boone or Tougaw. 
+- potentially, add a list of "neuronovels" or "brain memoirs", as Tougaw calls them. 
+
+Okay, now that those issues are out of the way, I can begin to examine this list, subtopic by subtopic, to get a sense of the questions that I am asking of them, and how they fit into the whole.
+
+**Posthumanism & Bodies**
+- How do historical and scientific discourses about technology address the body, emotions, affects, and gender?
+- What is the relationship between the analogy of machine/body and software(code)/mind? How is this embodied by the posthuman and cyborg?
+
+**Cognition & Computation**
+- How is thinking like computation? What is the historical understanding of this relationship?
+- Where is consciousness located---in the mind, body, or somewhere else?
+
+**Colors & Affect**
+- What is the historical understanding of the *location* of color? In the mind, eye, object, or light?
+- What is the relationship between color and affect? How do certain colors or color combinations engage emotions?
+
+**Empiricism**
+- How do we understand the historical emergence and development of empiricism?
+- How does W. James and Merleau-Ponty begin to trouble the empiricist notions of observation, experimentation, falsification, with the presumption of a rational and authoritative mind?
+
+**Speculative Realism**
+- What are the terms of the debate between Speculative Realism and Correlationism?
+- How is *knowing* an *aesthetic* experience? What is the role of emotion and affect in knowing?
+- How do the conclusions of Speculative Realism play out against the issues of cognition vs computation, the location of consciousness, and the role of affect in perception, as explored in my other subtopics?
+
+## December 17
+
+I made an interesting change in my Digital Studies list, which has also bled into my Theories of Perception and the Mind list: instead of having a separate section of primary works (such as science/hyper -fiction and digital archives), what if I add those works individually to the end of each subtopic, as a kind of "demonstration" of the critical interventions made therein? For example, *Woolf Online* and *Infinite Ulysses* move to the **Editing** subtopic, and *Galatea 2.2* goes to the **Posthuman** section. These creative pieces will then become weekend reads, with a lower pressure. 
+
 ## December 8
 
 Earlier this week, I met with Matt to talk about my digital list. The meeting went very well--he was totally supportive and encouraging of my choices so far, and seemed to appreciate what I could explain about my project. 
