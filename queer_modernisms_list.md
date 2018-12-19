@@ -1,34 +1,33 @@
 *Below is a brainstorm of potential works for my list, "Queer Modernisms and Affects", organized by various subtopics. The final list will be cut to around 25 works.*
 
-### Foundations
+## Foundations
 - Rich, Adrienne. "When We Dead Awaken: Writing as Revision", 1979.
-- Cixous, Helen. "The Laugh of the Medusa", 1975.
-- Foucault. *History of Sexuality Vol. 1*, 1984.
+- Cixous, Helene. "The Laugh of the Medusa", 1975.
+- Foucault, Michel. *History of Sexuality Vol. 1*, 1984.
 - Sedgwick, Eve Kosofsky. *The Epistemology of the Closet*, 1990.
 - Butler, Judith. *Bodies That Matter*, 1993. 
 
-### Affects
+## Affects
 - Bersani, Leo. “Is the Rectum a Grave?” 1987.
 - Cvetkovich, Ann. *An Archive of Feelings: Trauma, Sexuality, and Lesbian Public Cultures*, 2003.
 - Sedgwick, Eve Kosofsky. Chapter on "Shame" from *Touching Feeling: Affect, Pedagogy, Performativity*, 2003.
 - Muñoz, José. *Cruising Utopia: The Then and There of Queer Futurity*, 2009.
 - Love, Heather. *Feeling Backward: Loss and the Politics of Queer History*, 2009.
 
-### Protomodernist Aestheticizations
+## Protomodernist Aestheticizations
 - Wilde, Oscar. *The Picture of Dorian Gray*, 1890 and 1891, and MS.
-- Pater, Michael. *Studies of the History of the Renaissance*.
+- Pater, Walter. *Studies of the History of the Renaissance*, 1873.
 - Field, Michael. *Sight and Song*, 1892.
 
-### Modernist Auto/biography and Journals
+## Modernist Auto/biography and Journals
 - Woolf, Virginia. *Orlando*, 1928.
 - Woolf, Virginia. *A Writer's Diary*, 1953.
 - Woolf, Virginia. "A Sketch of the Past", 1939.
-- Stein, Gertrude. "Q.E.D.", 1903 and *Three Lives*, 1909. 
+- Stein, Gertrude. *The Autobiography of Alice B. Toklas*, 1933 & "Tender Buttons", 1914.
 - Barnes, Djuna. *Nightwood*, 1936.
 - Mansfield, Katherine and Margaret Scott. *The Katherine Mansfield Notebooks*, 2002.
 
-### Postmodern Memoir-esque
-
+## Postmodern Memoir-esque
 - Baldwin, James. *Giovanni's Room*, 1956.
 - Anzaldua, Gloria. *Borderlands/La Frontera: The New Mestiza*, 1987.
 - Myles, Eileen. *Chelsea Girls*, 1994.
@@ -37,7 +36,6 @@
 - Rosenberg, Jordy. *Confessions of the Fox*, 2018.
 
 ## Rejects 
-
 * Radicalesbians. "The Woman-Identified Woman". 1970.
 * Wittig, Monique. *The Straight Mind and other Essays*, 1978.
 * Anzaldua, Gloria and Cherrie Moraga, eds. *This Bridge Called My Back: Writings by Radical Women of Color*, 1981.
@@ -61,7 +59,6 @@
 * Lee, Vernon. *Hauntings. Fantastic Stories*, 1890.
 * James, Henry. *The Bostonians*, 1886.
 * Woolf, Virginia. Short Stories, *Jacob's Room*, 1922 & *The Waves*, 1931.
-* Stein, Gertrude. *The Autobiography of Alice B. Toklas*, 1933 & "Tender Buttons", 1914.
 * Barnes, Djuna. *Ryder* 1928.
 * Mansfield, Katherine. "Bliss" & "Prelude" & "At The Bay" & "Je Ne Parle Pas Francais" & "The Garden Party".
 * Hall. Radclyffe. *The Well of Loneliness*, 1928.
