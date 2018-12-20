@@ -3,9 +3,9 @@
 
 ## December 19
 
-I need to update on my meeting with Wayne last week, but that will have to wait for another day. First, I'm going through my Perception list one more time before my meeting with Jason tomorrow. Over the past two days, I've made some dramatic (necessary?) changes to this list. I cut out a whole lot of works and consolidated subtopics. The survivors are:
+I need to update on my meeting with W-- last week, but that will have to wait for another day. First, I'm going through my Perception list one more time before my meeting with J-- tomorrow. Over the past two days, I've made some dramatic (necessary?) changes to this list. I cut out a whole lot of works and consolidated subtopics. The survivors are:
 - Posthumanism & Bodies: Haraway, Hayles, Elizabeth Wilson & Richard Powers
-- Cognition & Computation: Various 20thC essays, Varela, Damasio, Chalmers, Dahaene, Hayles & Alain Robbe-Grillet or Jason Tougaw
+- Cognition & Computation: Various 20thC essays, Varela, Damasio, Chalmers, Dahaene, Hayles & Alain Robbe-Grillet or J. Tougaw
 - Colors & Emotions: Newton, Goethe, Wittgenstein & & Julie Delport
 - Empiricism: Hume, Bergson, W. James, Merleau-Ponty & Moretti and Boone
 - Speculative Realism: Whitehead, Stengers, Shaviro & Santiago Ramon y Cajal
@@ -44,7 +44,7 @@ I made an interesting change in my Digital Studies list, which has also bled int
 
 ## December 8
 
-Earlier this week, I met with Matt to talk about my digital list. The meeting went very well--he was totally supportive and encouraging of my choices so far, and seemed to appreciate what I could explain about my project. 
+Earlier this week, I met with M-- to talk about my digital list. The meeting went very well--he was totally supportive and encouraging of my choices so far, and seemed to appreciate what I could explain about my project. 
 
 He helped me to cut out some works, to add a few more, and to consider strategies for approaching the exam. His specific suggestions include
 - Despite one of my research questions being about gender/queerness, this list is really missing texts on those topics. Some suggestions that address this
@@ -73,7 +73,7 @@ Finally, after reading through Laura Mandell's article, which was good, I decide
 
 ## December 3
 
-So now I turn to my digital list--to Matt's question--what do I want to get out of this list?
+So now I turn to my digital list, to M--'s question: what do I want to get out of this list?
 
 1) Technology and gender: how technology "reads" or "encodes" gender. How the binairies and abstractions of computation struggle or fail to register the complexity of embodied human experience.
 
@@ -197,7 +197,7 @@ The most important texts from these lists have migrated to other subtopics. So t
 - Speculative Realism
 - [and literature... "neuronovels"?]
 
-Major decisions here include fusing "Affect and tech" to the "Posthuman body"; significantly cutting down the contents of Vision + Cognition (*Micrographia* had to go), fusing the Philosophy lists (they really present one trajectory on a question---which is historical and goes from Aristotle to Whitehead), and keeping Speculative Realism (because it's current and extremely interesting to me). There's still the literature section---not sure what will go here. Maybe memoirs about the brain, "neuronovels", as Jason Tougaw calls them.
+Major decisions here include fusing "Affect and tech" to the "Posthuman body"; significantly cutting down the contents of Vision + Cognition (*Micrographia* had to go), fusing the Philosophy lists (they really present one trajectory on a question---which is historical and goes from Aristotle to Whitehead), and keeping Speculative Realism (because it's current and extremely interesting to me). There's still the literature section---not sure what will go here. Maybe memoirs about the brain, "neuronovels", as J. Tougaw calls them.
 
 On the bus ride home today I also came to another decision about scheduling and list limits. 
 1. Each list will contain a maximum of 25 works. Because I don't want to kill myself.
@@ -213,7 +213,7 @@ On the bus ride home today I also came to another decision about scheduling and 
 
 I think this pacing will give me the structure and space that I need in order to do what is necessary. 
 
-## October 30: meeting with Wayne
+## October 30: meeting with W--
 
 *Asking you to be part of my committee...*
 
@@ -238,7 +238,7 @@ My questions:
 * What digital tools or methods engage the complexities of queer affect and identity? 
 * How can digital methods engage nonverbal or affective responses to reading? (this is a pedagogical question)
 
-Wayne's Comments:
+W--'s Comments:
 * When considering the “Theories of Gender/Sex/Race” and “Queer Affects” list, don’t think too much in binary terms. Don’t have this stark division in my mind, because they aren’t as divided. 
 * Restore Adrienne Rich’s two essays from “Rejects”.
 * Maybe move Bersani… 
@@ -248,15 +248,15 @@ Wayne's Comments:
 * What would be the effect of keeping the “Rejects”, as a kind of silent chorus? 
 * Structured reading time. 
 * Learning to speak with poise, the complexity about things you are reading. Emphasize the positive parts of this process, not the stress. 
-* Jason Tougaw’s article about Pedagogy in Wayne’s class. 
+* J. Tougaw’s article about Pedagogy in W--’s class. 
 * The last week of classes is an ideal time---definitely before the last day of class. 
 
 ***
-coming at this a few hours later... I had a revelation on the subway. What if I took seriously Wayne's comments about the "Rejects" acting as a chorus (that is, as actors who do not affect the primary action). What if I re-consider the way that I'm organizing this list, with groupings that are *preformative* instead of *descriptive*? To run with the example of Greek plays, I could have a group of texts that form a "prologue", others that represent various "episodes".... or to follow Shakespearean structure, the five parts from "exposition" to "denouement". 
+coming at this a few hours later... I had a revelation on the subway. What if I took seriously W--'s comments about the "Rejects" acting as a chorus (that is, as actors who do not affect the primary action). What if I re-consider the way that I'm organizing this list, with groupings that are *preformative* instead of *descriptive*? To run with the example of Greek plays, I could have a group of texts that form a "prologue", others that represent various "episodes".... or to follow Shakespearean structure, the five parts from "exposition" to "denouement". 
 
 ## October 24
 
-Again revisiting QM list. The revelation of doing journals as a focus still has an encouraging effect on me. (though Wayne still hasn't written back, which keeps me anxious...).
+Again revisiting QM list. The revelation of doing journals as a focus still has an encouraging effect on me. (though W-- still hasn't written back, which keeps me anxious...).
 
 I'm revising my High Modernist Fiction list to "Modernist Autobiography". It seems to me that many of these works are actually autobiographical, to a certain extent:
 - Orlando
