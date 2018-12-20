@@ -12,8 +12,8 @@ I need to update on my meeting with W-- last week, but that will have to wait fo
 
 The total comes out to just under 30. This seems about right. There are other concerns, things I may want to add (or swap in):
 - a feminist perspective---most of these works (excepting the Posthuman section) are written by men, and gender perhaps ought to factor into the Cognition, Empiricism, and Speculative Realism sections. 
-- a list of "greatest works" of literary criticism that engages with cognitive studies/themes/models. They might be proto-cognitive---not directly engaging or empoying cognition, but evocative or resonant of it. Specifically, I'm thinking of work by Boone or Tougaw. 
-- potentially, add a list of "neuronovels" or "brain memoirs", as Tougaw calls them. 
+- a list of "greatest works" of literary criticism that engages with cognitive studies/themes/models. They might be proto-cognitive---not directly engaging or empoying cognition, but evocative or resonant of it. Specifically, I'm thinking of work by Boone or J. Tougaw. 
+- potentially, add a list of "neuronovels" or "brain memoirs", as J. Tougaw calls them. 
 
 Okay, now that those issues are out of the way, I can begin to examine this list, subtopic by subtopic, to get a sense of the questions that I am asking of them, and how they fit into the whole.
 
