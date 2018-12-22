@@ -1,5 +1,57 @@
 # Daily Dissertation
 
+## December 21
+
+Had a really helpful and productive meeting with J-- today. 
+
+Some suggestions for literature:
+- Baldwin, James. "My Dungeon Shook," 1963.
+- Hudsvedt, Siri. *The Shaking Woman or A History of My Nerves*, 2010.
+    * An essay/memoir about speaking in public. Would go under "Thought/Feeling: Neuroscience"
+
+Some suggestions of theoretical / critical work:
+- LeDoux, Joseph. [*Anxious: Using the Brain to Understand and Treat Fear and Anxiety*](https://www.amazon.com/Anxious-Using-Brain-Understand-Anxiety-ebook/dp/B00OYXWLBU), 2015.
+    * Not the entire book, but there is a chapter on theories of consciousness, from neurological perspectives, things I would want to explore. Also info on cognitive assemblages.  
+- Damasio, first chapter of *The Feeling of What Happens*, and then his more recent book, [*Self Comes to Mind*](https://www.amazon.com/Self-Comes-Mind-Constructing-Conscious-ebook/dp/B003WUYOKM/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1545507317&sr=1-1&keywords=damasio+self+comes+to+mind), 2010.
+- Noe, Alva. [*Out of Our Heads: Why You Are Not Your Brain, and Other Lessons from the Biology of Consciousness*](https://www.amazon.com/Out-Our-Heads-Lessons-Consciousness/dp/0809016486), 2010. 
+- Dahaene, Stanislas. [*Reading in the Brain: The New Science of How We Read*](https://www.amazon.com/Reading-Brain-New-Science-Read/dp/0143118056), 2010.
+- Malabou, Catherine. [*What Should We Do with Our Brain? (Perspectives in Continental Philosophy*](https://www.amazon.com/Should-Brain-Perspectives-Continental-Philosophy/dp/082322953X), 2008. 
+    * Maybe ust a chapter from here. 
+- Pittx-Tayler, Victoria. [*The Brain's Body: Neuroscience and Corporeal Politics*](https://www.amazon.com/Brains-Body-Neuroscience-Corporeal-Politics/dp/0822361264), 2016. 
+    * Feminist synthesis of neuroscience.
+
+
+Some suggestions for revising/organizing my lists and strategies for the exam:
+- Focus it, deal with feeling & phenomenology.
+- Lose Searle, and Nagel could stay or go (it's often cited), Turing could also go, unless you want to keep it for historical reasons.
+- There's too much--eliminate a category or reshuffle... you might move the Cognition, Empiricism, and Speculative Realism sections into *two* categories, and from there, begin to cut works. The categories might be
+    * Thought & Feeling: Philosophy
+    * Thought & Feeling: Neuroscience
+- Once I have those two categories as my foundation, I can add the other subtopics (Posthuman and Colors) as more tangential areas. 
+- Make it feel organic and like everything fits tightly together. This is more important than being comprehensive. Keepign it shorter will also make it easier for you to be in charge during the exam. 
+- Explain fully the digital component to people who are unfamiliar.
+- What are the implications for reading the texts on Wayne's list? How does Hayles help us read *Orlando*?
+- Where in the text do digital methodologies arise?
+    * Where are the intersections of the two above questions?
+- Cut five works, any doubles of a single author (W-- said the same thing)
+- *Elusive Brain* explores implications. 
+- The goal isn't to create a field that reduces the issue.
+- Contact J-- in last week of January. 
+
+
+## December 20
+
+In preparation for my meeting with J-- tomorrow, I think I should spend some time articulating my research interests and questions. 
+
+Most broadly, I'm interested in Digital Studies, and Theories of Consciousness / Philosophy of the Mind, with a focus on Queer Modernist texts, particularly life writing, such as autobiography, memoir, and journals and manuscripts, but also fictionalized biography.
+
+With regard to Digital Studies, I'm interested in **how digital tools/methods encourage *speculation* or *nonverbal/affective* reactions as a critical reading practice.** This covers all kinds of reading, such as "distant,"close," "surface," or "deformative" / "algorithmic." Some examples of my work in this vein includes examinations of *Voyant-Tools* (a browser-based text analysis application), specifically how the "distance" of "distant reading" reinforces a *speculative* (rather than "objective" or "faslifiable," in the words of Franco Moretti) method by taking users to previously unforeseen places. Besides that, I'm also working on [modifying a digital annotation tool](https://github.com/gofilipa/digital_annotation) to include multi-color functionality on the hightlighter, in order to engage more directly preverbal on nonverbal affects in the reading process.
+
+In exploring this process of reading, I'm also interested in **the parallels between cognition and computation** (where my interest intersects with J--'s work). How do digital tools facilitate embodied interactions with text? To answer this, I plan to examine biological processes of perception, and figures of analogy between man and machine, such as the cyborg and the posthuman. 
+
+My prefered objects of study for this kind of investigation are first person autobiography or memoir, journals or manuscripts, or fictionalized autobiography/biography, which engages the writing as a process---in form and composition---and troubles the coherence of the queer subject. **How do the structures/logics/abstractions of technology/code complicate queer subjectivity? Or, is it possible to *encode* queerness?**
+
+I think my dissertation will attempt to address the following questions in some way: How do digital tools engage queer embodiment / embodied affects? How does perception (thinking and feeling) work? And how do these processes relate to computation?
 
 ## December 19
 
