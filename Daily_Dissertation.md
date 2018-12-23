@@ -38,6 +38,10 @@ Some suggestions for revising/organizing my lists and strategies for the exam:
 - The goal isn't to create a field that reduces the issue.
 - Contact J-- in last week of January. 
 
+***
+
+Coming at this a couple of days later---I've been seriously considering about what J-- says regarding the coherence/unity of the list being more important than coverage... So I removed entirely the *Colors* subtopic and and renamed *Posthuman* to *Thinking/Feeling: the Posthuman* (I might further adjust the title to fit more squarely with digital studies as a field). One book, Delporte's *Journal*, survived for now, switched to *Thinking/Feeling: Philosophy*. It may not make sense to keep it anymore, but I remain attached.
+
 
 ## December 20
 
