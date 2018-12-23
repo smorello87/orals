@@ -1,46 +1,44 @@
 *Below is a brainstorm of potential works for my list, "Theories of Consciousness and Perception", organized by various subtopics. The final list will be cut to around 25 works.*
 
-## Posthumanism (and bodies)
+## Thinking/Feeling: Neuroscience
+* Varela, Francisco, Evan Thompson, and Eleanor Rosch. *The Embodied Mind: Cognitive Science and Human Experience*, 1991.
+* Damasio, Antonio, first chapter of *The Feeling of What Happens*, 2000.
+* Damasio, Antonio. *Self Comes to Mind*, 2010.
+* Malabou, Catherine. *What Should We Do with Our Brain?*, 2008.
+* Noe, Alva. *Out of Our Heads: Why You Are Not Your Brain, and Other Lessons from the Biology of Consciousness*, 2010.
+* Dahaene, Stanislas. *Reading in the Brain: The New Science of How We Read*, 2010.
+* LeDoux, Joseph, chapter from *Anxious: Using the Brain to Understand and Treat Fear and Anxiety*, 2015.
+* Pitts-Tayler, Victoria. *The Brain's Body: Neuroscience and Corporeal Politics*, 2016. 
+* Tougaw, Jason. *The Elusive Brain: Literary Experiments in the Age of Neuroscience*, 2018. 
+* Hudsvedt, Siri. "The Shaking Woman or A History of My Nerves," 2010.
+
+## Thinking/Feeling: Philosophy
+* Hume, David. *An Enquiry Concerning Human Understanding*, 1748.
+* William James. Selected essays including “Does ‘Consciousness’ Exist?”; “Concerning Fechner”; “The Sentiment of Rationality,” “The Place of Affectional Facts in a World of Pure Experience”, and "Stream of Thought," circa 1890.
+* Bergson, Henri. *Matter and Memory*, 1896.
+* Whitehead, Alfred North. *Modes of Thought*, 1938.
+* Merleau-Ponty, Maurice. *The Phenomenology of Perception*, 1945.
+* Nagel, Thomas. "What is it like to be a bat?" 1974.
+* Chalmers, David and Andy Clark. "The Extended Mind." 1998.
+* Shaviro, Steven. *The Universe of Things: On Speculative Realism*, 2014.
+* Hayles, Katherine N. *Cognitive  Unconscious*, 2017.
+* Ramon y Cajal, Santiago. *The Beautiful Brain: The Drawings of Santiago Ramon y Cajal*, 2017.
+* Delporte, Julie. *Journal: February 2011-October 2012,* 2013.
+
+## Thinking/Feeling: the Posthuman
+* Turing, Alan. "Computing Machinery and Intelligence". 1950.
 * Haraway, Donna. "A Cyborg Manifesto", in *Simians, Cyborgs and Women: The Reinvention of Nature* 1990.
 * Hayles, Katherine. *How We Became Posthuman: Virtual Bodies in Cybernetics, Literature, and Informatics*, 2000.
 * Wilson, Elizabeth. *Affect and Artificial Intelligence*, 2010.
 * Powers, Richard. *Galatea 2.2* 1995.
 
-## Colors (and affects)
+### Rejects:
 * Newton, Isaac. *Optiks: Opticks: or, A Treatise of the Reflexions, Refractions, Inflexions and Colours of Light*, 1704.
 * Goethe, Johann Wolfgang. *Theory of Colours*, 1810.
 * Wittgenstein, Ludwig. *Remarks on Colour*, 1950.
-* Delporte, Julie. *Journal: February 2011-October 2012,* 2013.
-
-## Cognition (and computation)
-* Turing, Alan. "Computing Machinery and Intelligence". 1950.
-* Nagel, Thomas. "What is it like to be a bat?" 1974.
-* Searle, John. "Can Computers Think?" 1980.
-* Varela, Francisco, Evan Thompson, and Eleanor Rosch. *The Embodied Mind: Cognitive Science and Human Experience*, 1991.
-* Chalmers, David and Andy Clark. "The Extended Mind." 1998.
-* Damasio, Antonio. *The Feeling of What Happens: Body and Emotion in the Making of Consciousness*, 2000. OR *Descartes’ Error*
-* Dehaene, Stanislas. *Consciousness and the Brain: Deciphering How the Brain Codes Our Thoughts*, 2014.
-* Hayles, Katherine N. *Cognitive  Unconscious*, 2017.
 * Robbe-Grillet, Alain. "Jealousy", 1957.
-* Tougaw, Jason. *The Elusive Brain: Literary Experiments in the Age of Neuroscience*, 2018. 
-
-## Empiricism
-* Hume, David. *An Enquiry Concerning Human Understanding*, 1748.
-* Bergson, Henri. *Matter and Memory*, 1896.
-* William James. “Does ‘Consciousness’ Exist?”; “Concerning Fechner”; “The Sentiment of Rationality,” “The Place of Affectional Facts in a World of Pure Experience”
-* James, William. *Principles of Psychology*, 1890.
-* Merleau-Ponty, Maurice. *The Phenomenology of Perception*, 1945.
-* Moretti, Franco. *Distant Reading*, 2011.
-
-## Speculative Realism
-* Whitehead, Alfred North. *Modes of Thought*, 1938.
-* Whitehead, Alfred North. *Process and Reality: Gifford Lectures Delivered in the University of Edinburgh During the Session 1927-28*, 1979
-* Stengers, Isabelle. *Thinking With Whitehead*, 2011.
-* Shaviro, Steven. *Without Criteria: Kant, Whitehead, Deleuze, and Aesthetics*, 2009.
-* Shaviro, Steven. *The Universe of Things: On Speculative Realism*, 2014.
-* Ramon y Cajal, Santiago. *The Beautiful Brain: The Drawings of Santiago Ramon y Cajal*, 2017.
-
-### Rejects:
+* Whitehead, Alfred North. *Process and Reality: Gifford Lectures Delivered in the University of Edinburgh During the Session 1927-28*. 1979
+* Searle, John. "Can Computers Think?" 1980.
 * Crary, Jonathan. *Suspensions of Perception: Attention, Spectacle, and Modern Culture*, 2001.
 * Crary, Jonathan. *Techniques of the Observer: On Vision and Modernity in the 19th Century*, 1992.
 * Mitchell, WJT. *What Do Pictures Want?* 2004.
