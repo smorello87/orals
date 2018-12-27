@@ -6,7 +6,7 @@
 * Ramsay, Stephen. *Reading Machines: Toward an Algorithmic Criticism*, 2011. Print and PDF.
 * Drucker, Johanna. "Humanities Approaches to Graphical Display", *DHQ: Digital Humanities Quarterly*, 2011. Web. 
 * Felski, Rita. *The Limits of Critique*, 2015. PDF.
-* Rockwell, Geoffrey and Stefan Sinclair. [*Voyant-Tools*],(https://voyant-tools.org/) 2018. Web.
+* Rockwell, Geoffrey and Stefan Sinclair. [*Voyant-Tools*](https://voyant-tools.org/), 2018. Web.
 
 ## Language
 * Barthes, Roland. *S/Z*, 1970. Print.
