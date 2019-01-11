@@ -1,7 +1,7 @@
 *Below is a brainstorm of potential works for my list, "Digital Methods and Textuality", organized by various subtopics, containing 30 works.*
 
 ## Methods
-* Moretti, Franco. *Graphs, Maps, Trees*, 2007. Print.
+* Moretti, Franco. *Graphs, Maps, Trees: Abstract Models for Literary History*, 2007. Print.
 * Drucker, Johanna, "Introduction," *SpecLab: Digital Aesthetics and Projects in Speculative Computing*, pp. 2009. PDF.
 * Ramsay, Stephen. *Reading Machines: Toward an Algorithmic Criticism*, 2011. Print and PDF.
 * Drucker, Johanna. "Humanities Approaches to Graphical Display", *DHQ: Digital Humanities Quarterly*, 2011. Web. 
