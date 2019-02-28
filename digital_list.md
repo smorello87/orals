@@ -1,4 +1,4 @@
-*Below is a brainstorm of potential works for my list, "Digital Methods and Textuality", organized by various subtopics, containing 30 works.*
+*Below is a brainstorm of potential works for my list, "Digital Methods and Textuality", organized by various subtopics, containing 30 works.* BLALBALB
 
 ## Methods
 * Moretti, Franco. *Graphs, Maps, Trees: Abstract Models for Literary History*. 2007. Print.
